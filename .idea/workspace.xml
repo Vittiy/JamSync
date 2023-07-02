@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="19827f33-a725-48b7-adeb-ab7d3af819c4" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
@@ -62,7 +61,7 @@
       <option name="presentableId" value="Default" />
       <updated>1688289689841</updated>
       <workItem from="1688289693285" duration="1561000" />
-      <workItem from="1688291619645" duration="1696000" />
+      <workItem from="1688291619645" duration="2561000" />
     </task>
     <servers />
   </component>
