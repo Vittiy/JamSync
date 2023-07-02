@@ -14,3 +14,13 @@ services:
     restart: always
     ports:
       - 6379:6379
+  redis-insight:
+    image: redislabs/redisinsight:latest
+    restart: always
+    ports:
+      - 8001:8001
+  pg-dashboard:
+    image: adminer:latest
+    restart: always
+    ports:
+      - 8080:8080
